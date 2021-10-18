@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+  "01_stack_heap",
   "02_concepts",
   "03_grammar/scrape_url",
   "03_grammar/scrape_url_args",
